@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\bin\Debug\net8.0\PR2.exe
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\bin\Debug\net8.0\PR2.deps.json
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\bin\Debug\net8.0\PR2.runtimeconfig.json
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\bin\Debug\net8.0\PR2.dll
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\bin\Debug\net8.0\PR2.pdb
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.AssemblyInfo.cs
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.dll
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\refint\PR2.dll
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.pdb
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\PR2.genruntimeconfig.cache
+C:\Users\admin\Desktop\COLLEGE\.NET\PR2\PR2\obj\Debug\net8.0\ref\PR2.dll
