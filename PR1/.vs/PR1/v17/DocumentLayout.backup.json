@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\COLLEGE\\.NET\\PR1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40F6F21-5603-44C3-A60B-4A4CDFDA0A54}|PR1\\PR1.csproj|c:\\users\\admin\\desktop\\college\\.net\\pr1\\pr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40F6F21-5603-44C3-A60B-4A4CDFDA0A54}|PR1\\PR1.csproj|solutionrelative:pr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\COLLEGE\\.NET\\PR1\\PR1\\Program.cs",
+              "RelativeDocumentMoniker": "PR1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\COLLEGE\\.NET\\PR1\\PR1\\Program.cs",
+              "RelativeToolTip": "PR1\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:06:49.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

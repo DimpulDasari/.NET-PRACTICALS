@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\bin\Debug\net8.0\PR1.exe
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\bin\Debug\net8.0\PR1.deps.json
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\bin\Debug\net8.0\PR1.runtimeconfig.json
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\bin\Debug\net8.0\PR1.dll
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\bin\Debug\net8.0\PR1.pdb
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.AssemblyInfo.cs
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.sourcelink.json
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.dll
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\refint\PR1.dll
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.pdb
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\PR1.genruntimeconfig.cache
+C:\Users\admin\Desktop\COLLEGE\.NET\PR1\PR1\obj\Debug\net8.0\ref\PR1.dll
