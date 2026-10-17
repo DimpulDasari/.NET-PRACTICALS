@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37531.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product cataglog", "Product cataglog.csproj", "{3183AC8B-0FAA-49FD-A8D3-4F3AE9178CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3183AC8B-0FAA-49FD-A8D3-4F3AE9178CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3183AC8B-0FAA-49FD-A8D3-4F3AE9178CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3183AC8B-0FAA-49FD-A8D3-4F3AE9178CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3183AC8B-0FAA-49FD-A8D3-4F3AE9178CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530F9EA1-3377-4CCA-9EEE-9915E742AA6F}
+	EndGlobalSection
+EndGlobal

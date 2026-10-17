@@ -1,0 +1,191 @@
+﻿@model Product_cataglog.Models.product
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta charset="utf-8" />
+
+    <title>@Model.ProductName - Product Details</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f6f8;
+            color: #333;
+        }
+
+        .header {
+            background-color: #222;
+            color: white;
+            padding: 25px;
+            text-align: center;
+        }
+
+            .header h1 {
+                margin: 0;
+                font-size: 32px;
+            }
+
+        .details-container {
+            width: 90%;
+            max-width: 950px;
+            margin: 50px auto;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.15);
+            padding: 40px;
+            display: flex;
+            gap: 50px;
+            align-items: center;
+        }
+
+
+
+        .image-section {
+            width: 45%;
+            height: 350px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #fafafa;
+            border-radius: 10px;
+        }
+
+        .product-image {
+            max-width: 90%;
+            max-height: 300px;
+            object-fit: contain;
+        }
+
+        .details-section {
+            width: 55%;
+        }
+
+        .product-id {
+            color: #888;
+            font-size: 15px;
+            margin-bottom: 10px;
+        }
+
+        .product-name {
+            font-size: 34px;
+            color: #222;
+            margin: 10px 0 20px;
+        }
+
+        .category {
+            display: inline-block;
+            background-color: #eeeeee;
+            color: #555;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .price {
+            color: #198754;
+            font-size: 30px;
+            font-weight: bold;
+            margin: 15px 0 25px;
+        }
+
+
+        .back-button {
+            display: inline-block;
+            padding: 12px 22px;
+            background-color: #222;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 15px;
+            transition: 0.3s;
+        }
+
+            .back-button:hover {
+                background-color: #444;
+            }
+
+        @@media (max-width: 700px) {
+
+            .details-container {
+                flex-direction: column;
+                padding: 25px;
+            }
+
+            .image-section {
+                width: 100%;
+            }
+
+            .details-section {
+                width: 100%;
+                text-align: center;
+            }
+
+            .product-name {
+                font-size: 28px;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+
+    <div class="header">
+
+        <h1>Product Details</h1>
+
+    </div>
+
+
+    <div class="details-container">
+
+
+        <div class="image-section">
+
+            <img class="product-image"
+                 src="@Url.Content("" + Model.Image)"
+                 alt="@Model.ProductName" />
+
+        </div>
+
+        <div class="details-section">
+
+            <p class="product-id">
+                Product ID: @Model.ProductId
+            </p>
+
+            <h1 class="product-name">
+                @Model.ProductName
+            </h1>
+
+            <span class="category">
+                @Model.ProductCategory
+            </span>
+
+            <p class="price">
+                ₹@Model.ProductPrice
+            </p>
+
+            <a class="back-button"
+               href="@Url.Action("Index", "ProductDetails")">
+                ← Back to Products
+            </a>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
